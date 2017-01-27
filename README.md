@@ -1,2 +1,2 @@
 # MK8-Voice-Tools
-A suite of tools for voice editing in MK8.
+A few tools for voice editing in MK8.
